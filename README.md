@@ -26,7 +26,7 @@ Como Desarrollador de Business Intelligence, tengo experiencia en la creación d
 En mi perfil de GitHub(, encontrarás ejemplos de proyectos tanto de análisis de datos como de desarrollo de soluciones de Business Intelligence en los que he trabajado. Estoy emocionado por compartir mi conocimiento y colaborar en proyectos interesantes relacionados con estos campos.
 
 ## Contacto
-Si tienes alguna pregunta o estás interesado en colaborar en un proyecto relacionado con el análisis de datos o Business Intelligence, no dudes en contactarme a través de mi perfil de GitHub o en [tu dirección de correo electrónico].
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto relacionado con el análisis de datos o Business Intelligence, no dudes en contactarme a través de mi perfil de GitHub o en kingmr1230@gmail.com.
 
 ¡Gracias por visitar mi perfil! Espero tener la oportunidad de colaborar contigo en futuros proyectos de análisis de datos y Business Intelligence.
 
