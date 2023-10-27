@@ -1,4 +1,4 @@
-# Emilio - Analista de Datos y Desarrollador de Business Intelligence
+# Emilio - Analista de Datos 
 
 ¡Hola! Soy Emilio, un profesional apasionado por el análisis de datos y el desarrollo de soluciones de Business Intelligence. Permíteme compartir más detalles sobre mi experiencia y habilidades en estos dos campos:
 
